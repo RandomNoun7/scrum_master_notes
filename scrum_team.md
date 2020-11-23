@@ -20,7 +20,7 @@ Scrum master also owns the scrum process itself.
 - Owns the scrum framework.
 - Accepts input from the team, but the process itself ultimately belongs to the scrum master.
 
-## Servent leader
+## Servant leader
 
 - The scrum master is the leader and owner of the overall scrum process.
 - Responsible for educating the dev team, the PO and the business on scrum processes and values.
@@ -38,17 +38,17 @@ Norms:
 - Interaction
   - All ideas will be considered equally and thoughtfully
   - Team members will ask for help as soon as they know they need it
-  - Keep their commitments to eachother
-  - Holding eachother accountable to the team norms
+  - Keep their commitments to each other
+  - Holding each other accountable to the team norms
 - Communication
   - Everyone will speak respectfully
-  - And thank eachother for contributions
+  - And thank each other for contributions
 - Meeting Interaction
-  - Device Usage (Only with team concensus?)
+  - Device Usage (Only with team consensus?)
   - Meetings must start and end on time
   - Preferred hours for meetings
 - Decision making
-  - Standards for concensus
+  - Standards for consensus
   - Voting rules
   - Tie breakers. All team members are expected to honor decisions.
 - Conflict Resolution
@@ -61,6 +61,6 @@ Norms:
 
 ## Working Spaces
 
-This part of the course feels a little bit stale in the context of the pandemic. Hopefully it will be fully applicable again soon, but as a fully remote employee the assertion that all teams should be co located if possible is still not something I can fully get behind. 
+This part of the course feels a little bit stale in the context of the pandemic. Hopefully it will be fully applicable again soon, but as a fully remote employee the assertion that all teams should be co located if possible is still not something I can fully get behind.
 
 However, the course does acknowledge that this is not always possible physically, even with a team that is co located, and many teams are simply hybrids of co location and remote. In those cases both 'caves' and 'commons' can be used for the conflicting needs of collaboration and concentration, and a mix of physical presence and online collaboration tools may be required for remote team members.
